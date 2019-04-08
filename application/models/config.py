@@ -25,4 +25,3 @@ db = web.database(
     user=db_user,
     pw=db_pw
     )
-
